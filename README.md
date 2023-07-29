@@ -1,4 +1,4 @@
-# Hey Guys, Hope you are having a lovely day! 😊
+## Hey Guys, Hope you are having a lovely day! 😊
 
 <img  align="center" alt="Coding" src="https://justpaste.it/img/small/b2a8815f076de410c694851ed24a4cdd.jpg"></img>
 
@@ -10,20 +10,20 @@
 - 🥅 2023 Goals: To solve 500 DSA problems
 - ⚡ Fun fact: I have been a professional artist
 
-# ✨ Technical Tools: 
+## ✨ Technical Tools: 
 
 ### Programming Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,c,js,py,java)](https://skillicons.dev) <br/>
+[![Languages](https://skillicons.dev/icons?i=cpp,c,js)](https://skillicons.dev) <br/>
 ### Frontend Development
-[![Frontend](https://skillicons.dev/icons?i=react,html,css,bootstrap,jquery)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,bootstrap,tail)](https://skillicons.dev)
 ### Backend Development
-[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postman)](https://skillicons.dev)
 ### Databases
 [![Backend](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 ### Other
-[![Other](https://skillicons.dev/icons?i=git,github,linux,bash)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=vscode,git,github,bash,figma)](https://skillicons.dev)
 
-# 📊 GitHub
+## 📊 GitHub
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yogeyyy&theme=vision-friendly-dark&hide_border=false)<br/>
 
 
@@ -34,5 +34,4 @@
 <a href="https://instagram.com/yogitnainani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yogit's Instagram" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yogitnainani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yogit's Codeforces" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coffeebarista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yogit's Leetcode" height="30" width="40" /></a>
-<a href="https://discord.gg/2118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2118" height="30" width="40" /></a>
 </p>
