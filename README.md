@@ -18,21 +18,21 @@
 [![Frontend](https://skillicons.dev/icons?i=react,html,css,bootstrap,jquery)](https://skillicons.dev)
 ### Backend Development
 [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-### Database
+### Databases
 [![Backend](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 ### Other
 [![Other](https://skillicons.dev/icons?i=git,github,linux,bash)](https://skillicons.dev)
 
 # 📊 GitHub
-![](https://github-readme-streak-stats.herokuapp.com/?user=LakshitaS&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yogeyyy&theme=vision-friendly-dark&hide_border=false)<br/>
 
 
 <h3 align="left">🙌Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lakshita saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshita saxena" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lakshita saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshita saxena" height="30" width="40" /></a>
-<a href="https://instagram.com/lakshita.saxena1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshita.saxena1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rashi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rashi11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakshitasaxena07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshitasaxena07" height="30" width="40" /></a>
+<a href="https://twitter.com/yogitnainani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yogit's Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yogitnainani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yogit's LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/yogitnainani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yogit's Instagram" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yogitnainani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yogit's Codeforces" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/coffeebarista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yogit's Leetcode" height="30" width="40" /></a>
 <a href="https://discord.gg/2118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2118" height="30" width="40" /></a>
 </p>
