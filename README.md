@@ -6,8 +6,8 @@
 
 - 👨🏻‍💼 Leading IIITians Network core team
 - 🌱 Currently into open-source development
-- 👯 Open to work on fun-projects
-- 🥅 2023 Goals: To solve 500 DSA problems
+- 👯 Working on 3 projects right now
+- 🥅 2024 Goals: To solve 1500 DSA problems
 - ⚡ Fun fact: I have been a professional artist
 
 ## ✨ Technical Tools: 
