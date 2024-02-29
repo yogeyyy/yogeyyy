@@ -28,6 +28,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yogeyyy&theme=vision-friendly-dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeyyy&layout=compact&theme=vision-friendly-dark)
 
+## 🏆️ Github Trophies: 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yogeyyy&theme=onestar)](https://github.com/yogeyyy/github-profile-trophy)
+
 
 ## 🙌 Connect with me:
 
