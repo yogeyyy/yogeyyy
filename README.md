@@ -2,7 +2,7 @@
 
 <img  align="center" alt="Coding" src="https://justpaste.it/img/small/b2a8815f076de410c694851ed24a4cdd.jpg"></img>
 
-## Full Stack developer. ☕ 
+## Software Engineer. ☕ 
 
 - 👨🏻‍💼 Leading IIITians Network core team
 - 🌱 Currently into open-source development
