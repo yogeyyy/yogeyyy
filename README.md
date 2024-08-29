@@ -1,10 +1,10 @@
 ## Hey Guys, Hope you are having a lovely day! 😊
 
-<img  align="center" alt="Coding" src="https://justpaste.it/img/small/b2a8815f076de410c694851ed24a4cdd.jpg"></img>
+[//]: # (<img  align="center" alt="Coding" src="https://justpaste.it/img/small/b2a8815f076de410c694851ed24a4cdd.jpg"></img>)
+![fox](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG95YWN4ZDNwOTBocGs3dmUzMGRmY3h5NmY0dnFldXY5aGZ3OHBsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3OL6mSc2FeV0UHMDg/giphy.webp)
 
 ## Software Engineer. ☕ 
 
-- 👨🏻‍💼 Leading IIITians Network core team
 - 🌱 Currently into open-source development
 - 👯 Working on 3 projects right now
 - 🥅 2024 Goals: To solve 1500 DSA problems
