@@ -7,7 +7,7 @@
 
 - 🌱 Currently into open-source development
 - 👯 Working on 3 projects right now
-- 🥅 2024 Goals: To solve 1500 DSA problems
+- 🥅 2025 Goals: To solve 1500 DSA problems
 - ⚡ Fun fact: I have been a professional artist
 
 ## ✨ Technical Tools: 
